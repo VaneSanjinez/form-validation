@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Project routes
+
+The project counts with 4 routes:
+/form => For sign up email and password, according to input lenght the sign up button is active or not. And data is on url
+/age => Review if age on input is higher than 14, an email input is displayed
+/validator => for email and password, after displayed on alert.
+/test => Several fields email according to regexp.
+
 ## Available Scripts
 
 In the project directory, you can run:
